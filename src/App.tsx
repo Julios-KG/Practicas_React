@@ -26,6 +26,8 @@ import Cuest from "./Components/Dashboard/Cuestionario";
 import Bodega from "./Components/Dashboard/Almacen";
 import UtShop from "./Components/Dashboard/Tienda";
 import Users from "./Components/Dashboard/NewUser";
+import Register from "./Components/Dashboard/users";
+import CRM from "./Components/Dashboard/crm";
 
 
 
@@ -108,7 +110,11 @@ function App() {
 
        <UtShop/>
  */}
-      {/*  <Users/> */}
+      {/* <Users/>
+
+      <Register/> */}
+
+      <CRM/>
 
       </Box>
       </Box>
