@@ -32,6 +32,7 @@ import Tarea from "./Components/Dashboard/Tareas";
 import Calculadora from "./Components/Dashboard/Calculadora";
 import Cambios from './Components/Dashboard/Divisa';
 import Electronica from "./Components/Dashboard/CuesElc";
+import Amazon from "./Components/Dashboard/Juve3D";
 
 
 function App() {
@@ -123,7 +124,9 @@ function App() {
 
       {/*  <Cambios/>
 
-       <Electronica/> */}
+       <Electronica/> 
+
+       <Amazon/> */}
 
       </Box>
       </Box>
@@ -133,4 +136,6 @@ function App() {
 }  
 
  export default App;
+
+ 
 
