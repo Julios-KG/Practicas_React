@@ -28,9 +28,10 @@ import UtShop from "./Components/Dashboard/Tienda";
 import Users from "./Components/Dashboard/NewUser";
 import Register from "./Components/Dashboard/users";
 import CRM from "./Components/Dashboard/crm";
-
-
-
+import Tarea from "./Components/Dashboard/Tareas";
+import Calculadora from "./Components/Dashboard/Calculadora";
+import Cambios from './Components/Dashboard/Divisa';
+import Electronica from "./Components/Dashboard/CuesElc";
 
 
 function App() {
@@ -104,17 +105,25 @@ function App() {
 
        {/* <Comida/> */}
 
-      {/*  <Cuest/>
+       {/* <Cuest/>
 
        <Bodega/>
 
        <UtShop/>
- */}
-      {/* <Users/>
+ 
+       <Users/>
 
-      <Register/> */}
+       <Register/>
 
-      <CRM/>
+       <CRM/> */}
+
+       {/* <Tarea/> */}
+
+       {/* <Calculadora/> */}
+
+      {/*  <Cambios/>
+
+       <Electronica/> */}
 
       </Box>
       </Box>
